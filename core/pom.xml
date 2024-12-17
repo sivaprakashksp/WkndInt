@@ -149,11 +149,7 @@ Import-Package: javax.annotation;version=0.0.0,*
             <scope>test</scope>
         </dependency>
       <!--  commons-imaging dependency -->
-     <dependency>
-        <groupId>org.apache.commons</groupId>
-        <artifactId>commons-imaging</artifactId>
-        <version>1.0-alpha2</version> <!-- Replace with an available version -->
-    </dependency>
+     
     </dependencies>
 
       <!-- Additional Profiles for Cloud Service vs. 6.x -->
